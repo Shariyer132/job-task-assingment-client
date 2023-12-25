@@ -6,6 +6,7 @@ const PrivateRoute = ({children}) => {
     const location = useLocation();
     console.log(location, 'from private route');
     const {user, loading} = useAuth();
+    console.log(user, loading);
     if (loading) {
         return <progress className="progress w-56"></progress>
     }

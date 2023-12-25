@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Developer",
+        "description": "Developers can find resources for coding, the latest development tools, and community support.",
+        "icon": "laptop_code"
+    },
+    {
+        "title": "Corporate Professional",
+        "description": "Corporate professionals can access business insights, networking opportunities, and industry trends.",
+        "icon": "briefcase"
+    },
+    {
+        "title": "Banker",
+        "description": "Bankers can utilize financial tools, market analysis reports, and investment strategies.",
+        "icon": "chart_line"
+    },
+    {
+        "title": "Educator",
+        "description": "Educators can explore teaching resources, educational technology updates, and collaborative platforms.",
+        "icon": "chalkboard_teacher"
+    },
+    {
+        "title": "Healthcare Professional",
+        "description": "Healthcare professionals can find medical advancements, patient management techniques, and peer networking.",
+        "icon": "heartbeat"
+    },
+    {
+        "title": "Entrepreneur",
+        "description": "Entrepreneurs can discover startup guides, investment tips, and market opportunities.",
+        "icon": "lightbulb"
+    }
+]

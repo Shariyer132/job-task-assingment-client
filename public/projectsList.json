@@ -1,0 +1,53 @@
+{
+  "todo": [
+    {
+      "id": "task-1",
+      "status": "TO DO",
+      "Name": "i amd goj"
+    },
+    {
+      "id": "task-2",
+      "status": "TO DO",
+      "Name": "i amd goj"
+    },
+    {
+      "id": "task-3",
+      "status": "TO DO",
+      "Name": "i amd goj"
+    }
+  ],
+  "ongoing": [
+    {
+      "id": "task-1",
+      "status": "ON GOING",
+      "Name": "i amd goj"
+    },
+    {
+      "id": "task-2",
+      "status": "ON GOING",
+      "Name": "i amd goj"
+    },
+    {
+      "id": "task-3",
+      "status": "ON GOING",
+      "Name": "i amd goj"
+    }
+  ],
+  "completed": [
+    {
+      "id": "task-1",
+      "status": "COMPLETED",
+      "Name": "i amd goj"
+    },
+    {
+      "id": "task-2",
+      "status": "COMPLETED",
+      "Name": "i amd goj"
+    },
+    {
+      "id": "task-3",
+      "status": "COMPLETED",
+      "Name": "i amd goj"
+    }
+  ]
+}
